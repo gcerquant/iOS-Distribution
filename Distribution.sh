@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 #
+# MacMation - http://www.macmation.com
+# Guillaume Cerquant - contact at domainnameabove
+# 
 # Version 1.2: Now generate an IPA file, with a label showing info version on the artwork iTunes icon
 # Version 1.1: Include the Mobile Provisioning file inside the generated zip
 
@@ -11,6 +14,10 @@
 #	  - clean it
 #	Output multiple ipas, resigned with a different certificate
 #   Remove the dependancy to ImageMagick by embeding a custom command line tool that would do something nice using CoreImage
+# 
+# 
+
+
 
 
 ## configuration
